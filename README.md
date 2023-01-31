@@ -17,5 +17,4 @@ npm install
 ```sh
 npm run test
 ```
-
 [starter]: https://github.com/appacademy/practice-for-week-04-reading-tests-exercise
